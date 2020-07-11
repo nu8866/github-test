@@ -1,0 +1,44 @@
+.Overview {
+  width: 1000px;
+  margin: 1rem auto 1rem auto;
+}
+h1 {
+  text-align: center;
+  color: #00b5ad;
+}
+.SearchBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 2rem auto auto auto;
+  height: 7rem;
+}
+.SearchBar .segment {
+  margin: 0 auto 0 5rem !important;
+}
+.Action {
+  display: flex;
+  flex-direction: row;
+}
+.UserInfo {
+  /* margin-left: 5rem; */
+  display: flex;
+  flex-direction: row;
+}
+img {
+  max-width: 60px;
+}
+.Details {
+  display: flex;
+  flex-direction: column;
+}
+button.Search {
+  background-color: #48b500;
+  border-radius: 0.3rem;
+  color: white;
+  border: none;
+  font-size: large;
+  font-weight: 800;
+  cursor: pointer;
+}
