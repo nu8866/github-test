@@ -1,10 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Install and Run
 
-## Install
+Download code, open it in a code editor and in terminal run the following commands:
 
 `npm install`
-
-## Run
 
 `npm start`
 
